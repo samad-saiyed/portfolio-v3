@@ -4,7 +4,7 @@ export const experience: Experience[] = [
   {
     id: 'exp-1',
     company: 'Codentic Software',
-    role: 'Senior Full Stack Developer',
+    role: 'Full Stack Developer',
     period: 'Jul 2023 - Feb 2026',
     location: 'Anand',
     website: 'https://www.codenticsoftware.com/',
